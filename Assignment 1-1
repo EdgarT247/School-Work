@@ -1,0 +1,3 @@
+print ("Im learning how to program in Python")
+sum = "Thats Awesome!"
+print (sum)
